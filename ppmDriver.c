@@ -1,10 +1,3 @@
-/**************************
- *Danny Ho *
- *CPSC2310 Fall 2023 *
- *dkho: *
- *Instructor: Dr. Yvon Feaster *
- *************************/
-
 //Include the stdio and stdlib libraries
 //Include the ppmUtil header files
 #include <stdio.h>
