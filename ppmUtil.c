@@ -1,10 +1,3 @@
-/**************************
- *Danny Ho *
- *CPSC2310 Fall 2023 *
- *dkho: *
- *Instructor: Dr. Yvon Feaster *
- *************************/
-
 //Include the stdio, stdlib, stdbool, and ctype libraires
 //I will use ctype.h for the isdigit function when searching for width, height
 //and maxVal
