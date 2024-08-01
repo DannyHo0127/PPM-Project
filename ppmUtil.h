@@ -1,10 +1,3 @@
-/**************************
- *Danny Ho *
- *CPSC2310 Fall 2023 *
- *dkho: *
- *Instructor: Dr. Yvon Feaster *
- *************************/
-
 //Create header guards for ppmUtil file
 #ifndef PPMUTIL_H
 #define PPMUTIL_H
